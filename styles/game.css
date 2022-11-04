@@ -1,7 +1,12 @@
+#start-errors {
+    font-size: larger;
+    color: rgb(136, 2, 2);
+}
+
 #active-game {
     text-align: center;
     margin: 2rem 0 5rem 0;
-    /* display: none; */
+    display: none;
 }
 
 #game-over {
